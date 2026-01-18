@@ -1,1 +1,0 @@
-## Stock Predictino app
